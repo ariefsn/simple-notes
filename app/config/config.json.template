@@ -1,0 +1,23 @@
+{
+  "env": "prod",
+  "app": {
+    "title": "My Notes",
+    "host": "127.0.0.1"
+  },
+  "api": {
+      "name": "notes",
+      "port": "8888",
+      "prefix": "/api"
+  },
+  "public": {
+      "name": "notes",
+      "port": "8080",
+      "prefix": "/public"
+  },
+  "database": {
+      "host": "127.0.0.1:27017",
+      "username": "",
+      "password": "",
+      "name": "db-notes"
+  }
+}
