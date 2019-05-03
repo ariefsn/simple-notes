@@ -18,7 +18,7 @@
 ```
 # clone the project
 cd $GOPATH/src
-git clone "https://github.com/ayiexz/simple-notes.git"
+git clone "https://github.com/ariefsn/simple-notes.git"
 
 # copy configuration file
 cd $GOPATH/src/notes/app/config
